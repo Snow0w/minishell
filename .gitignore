@@ -1,0 +1,13 @@
+*.o
+*.d
+*.a
+minishell
+.vscode
+*.swp
+tags
+*.out
+minishell.dSYM
+src/commands_logic/tests/
+garbage_text.txt
+minishell_tester/
+mistakes.txt
